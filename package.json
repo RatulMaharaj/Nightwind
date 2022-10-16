@@ -1,0 +1,21 @@
+{
+  "name": "codergalactic",
+  "displayName": "Codergalactic",
+  "description": "Code theme inspired by Entergalactic",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.72.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Codergalactic",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Codergalactic-color-theme.json"
+      }
+    ]
+  }
+}
