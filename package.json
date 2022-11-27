@@ -9,6 +9,15 @@
   "categories": [
     "Themes"
   ],
+  "author": {
+    "name": "Ratul Maharaj",
+    "email": "ratulmaharaj@looped.co.za",
+    "url": "https://github.com/RatulMaharaj"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/RatulMaharaj/looped-vs-code-theme"
+  },
   "contributes": {
     "themes": [
       {
