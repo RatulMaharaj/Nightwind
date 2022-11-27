@@ -1,7 +1,7 @@
 {
-  "name": "codergalactic",
-  "displayName": "Codergalactic",
-  "description": "Code theme inspired by Entergalactic",
+  "name": "looped-dark",
+  "displayName": "Looped Dark",
+  "description": "Code theme inspired by Tailwind colors",
   "version": "0.0.1",
   "engines": {
     "vscode": "^1.72.0"
@@ -12,9 +12,9 @@
   "contributes": {
     "themes": [
       {
-        "label": "Codergalactic",
+        "label": "looped-tw-dark",
         "uiTheme": "vs-dark",
-        "path": "./themes/Codergalactic-color-theme.json"
+        "path": "./themes/looped-vs-code-theme.json"
       }
     ]
   }
