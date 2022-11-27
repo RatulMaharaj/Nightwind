@@ -3,7 +3,7 @@
   "publisher": "RatulMaharaj",
   "displayName": "Looped Dark",
   "description": "Code theme inspired by Tailwind colors",
-  "version": "0.0.1",
+  "version": "0.0.3",
   "engines": {
     "vscode": "^1.72.0"
   },
@@ -22,7 +22,7 @@
   "contributes": {
     "themes": [
       {
-        "label": "looped-tw-dark",
+        "label": "looped-dark",
         "uiTheme": "vs-dark",
         "path": "./themes/looped-vs-code-theme.json"
       }
