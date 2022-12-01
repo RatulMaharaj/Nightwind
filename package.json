@@ -4,7 +4,7 @@
   "displayName": "Nightwind",
   "description": "Code theme inspired by Tailwind colors",
   "version": "0.0.4",
-  "icon": "./nightwind.png",
+  "icon": "nightwind.png",
   "engines": {
     "vscode": "^1.72.0"
   },
