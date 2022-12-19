@@ -2,7 +2,7 @@
   "name": "nightwind",
   "publisher": "RatulMaharaj",
   "displayName": "Nightwind",
-  "description": "Code theme inspired by Tailwind colors",
+  "description": "Code theme inspired by the Tailwind colors.",
   "version": "0.0.4",
   "icon": "nightwind.png",
   "engines": {
