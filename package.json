@@ -3,7 +3,7 @@
   "publisher": "RatulMaharaj",
   "displayName": "Nightwind",
   "description": "Code theme inspired by the Tailwind colors.",
-  "version": "0.0.5",
+  "version": "0.0.6",
   "icon": "nightwind.png",
   "engines": {
     "vscode": "^1.72.0"
